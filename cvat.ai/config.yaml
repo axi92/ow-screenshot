@@ -1,0 +1,41 @@
+path: D:\Git\ow-screenshot\cvat.ai\data  # dataset root dir
+train: images\train  # train images (relative to 'path')
+val: images\train  # val images (relative to 'path')
+
+# Classes
+names:
+  0:  ana
+  1:  baptiste
+  2:  bastion
+  3:  brigitte
+  4:  cassidy
+  5:  doomfist
+  6:  dVa
+  7:  echo
+  8:  genji
+  9:  hanzo
+  10: junkerQueen
+  11: junkrat
+  12: kiriko
+  13: lucio
+  14: mei
+  15: mercy
+  16: moira
+  17: orisa
+  18: pharah
+  19: ramattra
+  20: reaper
+  21: reinhardt
+  22: roadhog
+  23: sigma
+  24: sojourn
+  25: soldier76
+  26: sombra
+  27: symmetra
+  28: torbjorn
+  29: tracer
+  30: widowmaker
+  31: winston
+  32: zarya
+  33: zenyatta
+  34: ashe

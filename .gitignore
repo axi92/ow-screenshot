@@ -13,3 +13,11 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+cvat.ai/runs
+cvat.ai/data/labels/train.cache
+
+cvat.ai/train.txt
+
+cvat.ai/data/images/train/*.png
+
+*.zip
